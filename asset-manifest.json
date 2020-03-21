@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HW15DIRECTORY/static/css/main.3a36b561.chunk.css",
+    "main.js": "/HW15DIRECTORY/static/js/main.23bd7966.chunk.js",
+    "main.js.map": "/HW15DIRECTORY/static/js/main.23bd7966.chunk.js.map",
+    "runtime-main.js": "/HW15DIRECTORY/static/js/runtime-main.b12641ea.js",
+    "runtime-main.js.map": "/HW15DIRECTORY/static/js/runtime-main.b12641ea.js.map",
+    "static/css/2.de424728.chunk.css": "/HW15DIRECTORY/static/css/2.de424728.chunk.css",
+    "static/js/2.ec7a5469.chunk.js": "/HW15DIRECTORY/static/js/2.ec7a5469.chunk.js",
+    "static/js/2.ec7a5469.chunk.js.map": "/HW15DIRECTORY/static/js/2.ec7a5469.chunk.js.map",
+    "index.html": "/HW15DIRECTORY/index.html",
+    "precache-manifest.330a806a7772bc7cde6aa68ce3e3879f.js": "/HW15DIRECTORY/precache-manifest.330a806a7772bc7cde6aa68ce3e3879f.js",
+    "service-worker.js": "/HW15DIRECTORY/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/HW15DIRECTORY/static/css/2.de424728.chunk.css.map",
+    "static/css/main.3a36b561.chunk.css.map": "/HW15DIRECTORY/static/css/main.3a36b561.chunk.css.map",
+    "static/js/2.ec7a5469.chunk.js.LICENSE.txt": "/HW15DIRECTORY/static/js/2.ec7a5469.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/HW15DIRECTORY/static/media/eevee.fbbb7a76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b12641ea.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.ec7a5469.chunk.js",
+    "static/css/main.3a36b561.chunk.css",
+    "static/js/main.23bd7966.chunk.js"
+  ]
+}
