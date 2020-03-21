@@ -11,3 +11,17 @@ div[data-reactroot] {
   padding: 0;
   margin: 0;
 }
+
+.textbox {
+  margin-left: 635px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.backgroundImg{
+  background-image: url(./eevee.png);
+  background-repeat: no-repeat;
+  background-position-x: -150px;
+}
+
+
